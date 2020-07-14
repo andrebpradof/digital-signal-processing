@@ -16,8 +16,13 @@ close all;
 %[x,Fs] = audioread('audio.wav');
 
 % Teste 2
-[x,Fs] = audioread('audio_1.wav');
-[y,Fx] = audioread('audio_2.wav');
+%[x,Fs] = audioread('audio_1.wav');
+%[y,Fx] = audioread('audio_2.wav');
+
+
+% Teste 3
+[x,Fs] = audioread('audio_music.wav');
+[y,Fx] = audioread('audio_music_eco.wav');
 
 %% Efeito de eco
 %alpha = 1.5; D = 8000; 
