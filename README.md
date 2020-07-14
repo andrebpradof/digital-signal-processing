@@ -9,9 +9,7 @@ Mateus Fernandes Doimo - Nº USP: 10691971</br>
 <hr>
 
 <h3>Descrição:</h3>
-<p></p>
-
+<p>Filtros adaptativos são filtros temporais discretos que tem seus coeficientes ajustados ao longo do tempo para acompanhar as mudanças no sistema onde são utilizados reduzindo o sinal de erro medido a partir do sensor</p>
+<br>
 <h3>Código:</h3>
-
-<hr>
-<h3>Referências:</h3>
+<p>O algoritmos LMS e NLMS foram desenvolvidos em MATLAB® na versão R2018b. Os códigos encontram-se no arquivo <b>algoritmo_eco.m</b>.</p>
