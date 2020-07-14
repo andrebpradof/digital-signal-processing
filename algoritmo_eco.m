@@ -34,8 +34,8 @@ dt = 1/Fs;  % Transformar para segundos - periodo
 
 %a = 0.8;              
 %c = 0.8;
-a = 1;    % Tamanho da etapa normalizado (0 < a < 2)              
-c = 0.9;    % Fator de segurança (pequena constante positiva)
+a = 0.5;    % Tamanho da etapa normalizado (0 < a < 2)              
+c = 0.1;    % Fator de segurança (pequena constante positiva)
 L = 1000;   % Numero de passos
 
 N = length(y);
